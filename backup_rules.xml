@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Intentionally empty: nothing is excluded or altered. Business data lives in the website's
+         IndexedDB and is protected by the website's own Google Drive backup. -->
+</full-backup-content>
